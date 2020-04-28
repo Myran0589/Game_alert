@@ -1,2 +1,3 @@
 # Game_alert
-**It's for alerting members before questions**
+Made by Myran 
+__Pydroid3__
