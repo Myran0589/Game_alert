@@ -21,4 +21,4 @@ async def q(ctx,que: str):
 	     embed.set_footer(text="©Server Manager | Myran#0001")
 	     await ctx.send(content="@everyone",embed=embed)
 
-client.run('NzA0MjU3Mzk4NzEzNDgzMzE0.Xq2jcw.3BqdF4iaz5c7pFitciXsSNFooHo')
+client.run('Bot token')
